@@ -1,0 +1,21 @@
+{
+  "name": "spuder-torque",
+  "version": "0.1.0",
+  "summary": "",
+  "author": "Spencer Owen",
+  "description": "",
+  "dependencies": [
+    {
+      "name": "puppetlabs/vcsrepo"
+    },
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": "\u003e\u003d4.0.0"
+    }
+  ],
+  "types": [],
+  "checksums": {},
+  "source": "",
+  "project_page": "",
+  "license": ""
+}

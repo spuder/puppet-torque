@@ -1,0 +1,4 @@
+class torque::mom::service {
+  
+  
+}
